@@ -1,6 +1,3 @@
-#In this function we introduce the <<- operator which 
-#can be used to assign a value to an object in an environment 
-#that is different from the current environment. 
 #Below are two functions that are used to create a special
 #object that stores a matrix and caches its inverse.
 
