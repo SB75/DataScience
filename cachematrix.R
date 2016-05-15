@@ -1,7 +1,7 @@
 #Below are two functions that are used to create a special
 #object that stores a matrix and caches its inverse.
 
-#The first function, makemCacheMatrix creates a special "matrix",
+#The first function, makemCacheMatrix creates a special "matrix"
 #which is really a list containing a function to
 #set the value of the matrix
 #get the value of the matrix
